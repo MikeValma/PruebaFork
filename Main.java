@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String nombre = "JON";
+        String nombre = "Laura";
         String apellido = "Garcia";
 
         String saludo = "Hola " + nombre + " " + apellido + " ¿Que tal?";
@@ -9,6 +9,7 @@ public class Main {
     }
     
 }
+
 
 
 
